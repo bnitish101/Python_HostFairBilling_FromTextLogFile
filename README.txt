@@ -25,3 +25,17 @@ userName userSession userTotalUsageInSeconds
 ALICE99 4 240
 CHARLIE 3 37
 >
+
+# ---- Command-line ("console") applications run on windows os successfully ---- #
+
+Microsoft Windows [Version 10.0.18363.1198]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\PythonPractice\Python\HostFairBilling\HostFairBilling>python FairBilling.py C:/PythonPractice/Python/HostFairBilling/HostFairBilling/sessionsLog.txt
+
+ALICE99 4 240
+CHARLIE 3 37
+
+Press Enter to exit!
+
+C:\PythonPractice\Python\HostFairBilling\HostFairBilling>
